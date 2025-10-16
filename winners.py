@@ -12,4 +12,4 @@ user_with_scores = np.array([
 winners = user_with_scores[:,1] > 50
 
 
-print(user_with_scores[winners]
+print(user_with_scores[winners])
